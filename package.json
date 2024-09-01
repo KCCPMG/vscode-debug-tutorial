@@ -1,0 +1,11 @@
+{
+  "name": "vscode-debug-tutorial",
+  "version": "1.0.0",
+  "description": "sample project to explore vscode debug tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Wales",
+  "license": "ISC"
+}
