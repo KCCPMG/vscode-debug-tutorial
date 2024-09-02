@@ -1,10 +1,7 @@
 console.log("beginning of index.js used for debug test");
 
-const obj = {
-  a: 0,
-  b: 1,
-  c: 2
-}
+// a breakpoint on the line below will show obj as a local variable which is undefined
+const obj = {a: 0,b: 1,c: 2}
 
 // without the debugger line below, a breakpoint here would go to the next line of code, the for loop
 debugger;
